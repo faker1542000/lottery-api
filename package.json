@@ -1,0 +1,12 @@
+{
+  "name": "lottery-api",
+  "version": "1.0.0",
+  "description": "福彩3D数据API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
